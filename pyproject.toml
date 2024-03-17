@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "app-name"
 version = "0.1.0"
-description = "A beautiful description."
-authors = ["Reinder Vos de Wael <reinder.vosdewael@childmind.org>"]
-license = "LGPL-2.1"
+description = "Description."
+authors = ["Arno Klein <binarybottle@gmail.com>"]
+license = "MIT"
 readme = "README.md"
 packages = [{include = "APP_NAME", from = "src"}]
 
