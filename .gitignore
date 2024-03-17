@@ -1,4 +1,12 @@
 .DS_Store
+#*
+.#*
+
+.vscode/
+node_modules/
+package-lock.json
+package.json
+
 .ruff_cache
 
 # Byte-compiled / optimized / DLL files
